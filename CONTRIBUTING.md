@@ -495,3 +495,5 @@ Making sure you follow the above conventions is important, but just the beginnin
 * [General GitHub documentation](http://help.github.com/)
 * [GitHub pull request documentation](http://help.github.com/send-pull-requests/)
 * [Join us on IRC - #bukkitdev @ irc.esper.net](http://wiki.bukkit.org/IRC)
+
+Frank was here...
